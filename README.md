@@ -7,7 +7,7 @@ The application recommends movies based on the similarity between the selected m
 
 👉 **[Try the Movie Recommender System](https://movie-recommender-system-ndusfct7v7roxpqu7h9r3q.streamlit.app/)**
 
-> Replace `YOUR_STREAMLIT_APP_URL_HERE` with your Streamlit Community Cloud URL.
+> https://movie-recommender-system-ndusfct7v7roxpqu7h9r3q.streamlit.app/
 
 ## 📌 Project Overview
 
